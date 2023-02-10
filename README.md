@@ -6,3 +6,6 @@ Developed custom wikipedia search application where user can search and view cur
 - Fetched search results from server asynchronously using fetch GET HTTP API call. When a user clicks on a particular result, opens the website in a new tab by using the target attribute of the anchor tag in HTML.
 
 Technologies used: HTML, CSS, JS, REST API Calls, Bootstrap
+
+
+visit: https://dineshgatla.github.io/wikipedia-search/
